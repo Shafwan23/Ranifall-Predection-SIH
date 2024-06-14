@@ -27,7 +27,7 @@ Development of an AI-based nowcasting model for predicting heavy precipitation e
 Download or clone this repo by using the link below:
 
 ```bash
- https://github.com/vaaghu/SIH.git
+ https://github.com/Shafwan23/Ranifall-Prediction-SIH.git
 ```
 
 #### Step 2:
